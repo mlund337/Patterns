@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-
+// This is an example of the CommandPattern
 namespace CommandPattern
 {
     public interface ICommand
