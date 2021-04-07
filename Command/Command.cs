@@ -5,8 +5,6 @@ using System.Text;
 
 namespace Patterns
 {
-
-
     public class Command
     {
         public Command()
@@ -62,7 +60,6 @@ namespace Patterns
             _switchable.SetDimLevel(_dimLevel);
         }
     }
-
 
     public class Switch
     {
