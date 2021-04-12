@@ -9,7 +9,8 @@ namespace Patterns
         public static void Main(string[] arguments)
         {
             var command = new Command();
-            //var singleton = new Singleton();
+            var singleton = new Singleton();
+            var observer = new Observer();
             //var builder = new Builder();
             //var state = new State();
             //var strategy = new Strategy();
